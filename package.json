@@ -1,0 +1,19 @@
+{
+  "name": "javascript-utils",
+  "version": "1.0.0",
+  "description": "Here are my utils for the JavaScript which I use usually.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lazlo22/JavaScript-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lazlo22/JavaScript-utils/issues"
+  },
+  "homepage": "https://github.com/Lazlo22/JavaScript-utils#readme"
+}
